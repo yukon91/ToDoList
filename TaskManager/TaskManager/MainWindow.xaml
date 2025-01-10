@@ -17,9 +17,9 @@
                 Content="Lägg till uppgift" 
                 HorizontalAlignment="Left" 
                 VerticalAlignment="Top" 
-                Width="85" 
+                Width="95" 
                 Height="30" 
-                Margin="420,10,0,0" 
+                Margin="415,10,0,0" 
                 Click="AddButton_Click"/>
         <ListBox Name="TasksListBox" 
                  HorizontalAlignment="Left" 
@@ -31,9 +31,9 @@
                 Content="Ta bort uppgift" 
                 HorizontalAlignment="Left" 
                 VerticalAlignment="Top" 
-                Width="85" 
+                Width="95" 
                 Height="30" 
-                Margin="420,260,0,0" 
+                Margin="415,255,0,0" 
                 Click="RemoveButton_Click"/>
     </Grid>
 </Window>

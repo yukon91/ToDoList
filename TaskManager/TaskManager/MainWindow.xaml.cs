@@ -19,6 +19,34 @@ namespace TaskManager
         public MainWindow()
         {
             InitializeComponent();
+            
+        }
+        public void AddButton_Click(object sender, RoutedEventArgs e)
+        {
+            string option = TaskTextBox.Text;
+
+            if (!string.IsNullOrWhiteSpace(option))
+            {
+                TasksListBox.Items.Add(option);
+                   
+            }
+            else
+            {
+                MessageBox.Show("Please enter a task!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+        public void RemoveButton_Click(Object sender, RoutedEventArgs e)
+        {
+            var selectedTask = TasksListBox.SelectedItem;
+
+            if (selectedTask != null)
+            {
+                TasksListBox.Items.Remove(selectedTask);
+            }
+            else
+            {
+                MessageBox.Show("Please select a task to remove.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
     }
 }

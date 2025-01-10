@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cSharpPractice\\TaskManager\\TaskManager\\TaskManager.csproj",
+      "projectUniqueName": "D:\\ToDoList\\TaskManager\\TaskManager\\TaskManager.csproj",
       "projectName": "TaskManager",
-      "projectPath": "D:\\cSharpPractice\\TaskManager\\TaskManager\\TaskManager.csproj",
+      "projectPath": "D:\\ToDoList\\TaskManager\\TaskManager\\TaskManager.csproj",
       "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-      "outputPath": "D:\\cSharpPractice\\TaskManager\\TaskManager\\obj\\",
+      "outputPath": "D:\\ToDoList\\TaskManager\\TaskManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",

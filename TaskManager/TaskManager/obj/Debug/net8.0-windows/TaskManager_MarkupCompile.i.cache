@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-D:\cSharpPractice\TaskManager\TaskManager\obj\Debug\net8.0-windows\
+D:\ToDoList\TaskManager\TaskManager\obj\Debug\net8.0-windows\
 TaskManager
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\cSharpPractice\TaskManager\TaskManager\App.xaml
+D:\ToDoList\TaskManager\TaskManager\App.xaml
 11407045341
 
 7-375376446
