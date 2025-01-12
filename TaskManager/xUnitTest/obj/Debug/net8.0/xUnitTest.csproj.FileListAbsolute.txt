@@ -1,0 +1,6 @@
+D:\ToDoList\TaskManager\xUnitTest\obj\Debug\net8.0\xUnitTest.csproj.AssemblyReference.cache
+D:\ToDoList\TaskManager\xUnitTest\obj\Debug\net8.0\xUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDoList\TaskManager\xUnitTest\obj\Debug\net8.0\xUnitTest.AssemblyInfoInputs.cache
+D:\ToDoList\TaskManager\xUnitTest\obj\Debug\net8.0\xUnitTest.AssemblyInfo.cs
+D:\ToDoList\TaskManager\xUnitTest\obj\Debug\net8.0\xUnitTest.csproj.CoreCompileInputs.cache
+D:\ToDoList\TaskManager\xUnitTest\obj\Debug\net8.0\xUnitTest.sourcelink.json

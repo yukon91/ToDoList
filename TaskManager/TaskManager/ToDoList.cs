@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace TaskManager
 {
-    /// <summary>
-    /// Hantering för att lägga till, ta bort, samt visa listan
-    /// </summary>
-    internal class ToDoList
+    public class ToDoList
     {
         private List<string> tasks = new();
 
@@ -18,17 +15,14 @@ namespace TaskManager
             tasks.Add(task);
         }
 
-        public void RemoveTask(string task)
+        public void RemoveTask(int index)
         {
-            int index = tasks.IndexOf(task);
-            if (index != -1)
+            
+            if (index >= 0 && index < tasks.Count)
             {
                 tasks.RemoveAt(index);
-            }
-            else
-            {
-                Console.WriteLine("Task was not found in the list!");
-            }
+            }         
+            
         }
        
         public List<string> GetTasks()

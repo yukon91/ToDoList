@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|d:\\todolist\\taskmanager\\taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|d:\\todolist\\taskmanager\\taskmanager\\taskmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|d:\\todolist\\taskmanager\\taskmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|d:\\todolist\\taskmanager\\taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BDF0B101-81B5-4493-94B7-C7A96E6C3FFB}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{29E58C17-DBEA-4823-A097-7E87289AACCC}|xUnitTest\\xUnitTest.csproj|d:\\todolist\\taskmanager\\xunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E58C17-DBEA-4823-A097-7E87289AACCC}|xUnitTest\\xUnitTest.csproj|solutionrelative:xunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\ToDoList\\TaskManager\\TaskManager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TaskManager\\MainWindow.xaml",
               "ToolTip": "D:\\ToDoList\\TaskManager\\TaskManager\\MainWindow.xaml",
               "RelativeToolTip": "TaskManager\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-10T08:17:18.323Z"
+              "WhenOpened": "2025-01-10T10:55:42.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "TaskManager.csproj",
+              "DocumentMoniker": "D:\\ToDoList\\TaskManager\\TaskManager\\TaskManager.csproj",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManager.csproj",
+              "ToolTip": "D:\\ToDoList\\TaskManager\\TaskManager\\TaskManager.csproj",
+              "RelativeToolTip": "TaskManager\\TaskManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T10:34:52.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ToDoList\\TaskManager\\xUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "xUnitTest\\UnitTest1.cs",
+              "ToolTip": "D:\\ToDoList\\TaskManager\\xUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "xUnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:49:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\ToDoList\\TaskManager\\TaskManager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TaskManager\\MainWindow.xaml.cs",
               "ToolTip": "D:\\ToDoList\\TaskManager\\TaskManager\\MainWindow.xaml.cs",
               "RelativeToolTip": "TaskManager\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:17:16.724Z"
+              "WhenOpened": "2025-01-10T08:17:16.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +91,7 @@
               "RelativeDocumentMoniker": "TaskManager\\ToDoList.cs",
               "ToolTip": "D:\\ToDoList\\TaskManager\\TaskManager\\ToDoList.cs",
               "RelativeToolTip": "TaskManager\\ToDoList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T08:24:45.177Z",
               "EditorCaption": ""

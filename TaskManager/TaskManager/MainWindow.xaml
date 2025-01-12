@@ -4,36 +4,41 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TaskManager"
-        mc:Ignorable="d"
-        Title="To-Do App" Height="350" Width="525">
-    <Grid>
+        mc:Ignorable="d"      
+        Background="DarkTurquoise"
+        Title="To-Do App" Height="311" Width="545">
+
+    <Grid Margin="0,0,0,31">
         <TextBox Name="TaskTextBox" 
                  HorizontalAlignment="Left" 
-                 Margin="10,10,0,0" 
+                 Margin="65,10,0,0" 
                  VerticalAlignment="Top" 
-                 Width="400" 
-                 Height="30"/>
+                 Width="236" 
+                 Height="30"
+                 TextAlignment="Center"/>
         <Button Name="AddButton" 
                 Content="Lägg till uppgift" 
                 HorizontalAlignment="Left" 
                 VerticalAlignment="Top" 
-                Width="95" 
+                Width="94" 
                 Height="30" 
-                Margin="415,10,0,0" 
-                Click="AddButton_Click"/>
+                Margin="306,10,0,0" 
+                Click="AddButton_Click"
+                Background="LightGray"
+                FontWeight="Medium"/>
         <ListBox Name="TasksListBox" 
                  HorizontalAlignment="Left" 
-                 Height="200" 
-                 Margin="10,50,0,0" 
-                 VerticalAlignment="Top" 
-                 Width="480"/>
+                 Margin="65,51,0,-20" 
+                 Width="434"/>
         <Button Name="RemoveButton" 
                 Content="Ta bort uppgift" 
                 HorizontalAlignment="Left" 
                 VerticalAlignment="Top" 
-                Width="95" 
+                Width="94" 
                 Height="30" 
-                Margin="415,255,0,0" 
-                Click="RemoveButton_Click"/>
+                Margin="405,10,0,0" 
+                Click="RemoveButton_Click"
+                Background="LightGray"
+                FontWeight="Medium" RenderTransformOrigin="0.343,0.628"/>
     </Grid>
 </Window>
